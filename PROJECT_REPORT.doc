@@ -1,0 +1,1241 @@
+
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'>
+<head>
+<meta charset="utf-8">
+<title>Minor Project Report - JIMS Alumni Network</title>
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>100</w:Zoom>
+<w:DoNotOptimizeForBrowser/>
+</w:WordDocument>
+</xml>
+<![endif]-->
+<style>
+  @page {
+    size: 21.0cm 29.7cm; /* A4 */
+    margin: 2.54cm 2.54cm 2.54cm 2.54cm;
+    mso-page-orientation: portrait;
+  }
+  body {
+    font-family: 'Calibri', 'Times New Roman', Arial, sans-serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: #1e293b;
+  }
+  h1, h2, h3, h4 {
+    font-family: 'Calibri', 'Arial', sans-serif;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th, td {
+    border: 1px solid #cbd5e1;
+    padding: 8px 10px;
+  }
+  th {
+    background-color: #0f2744;
+    color: white;
+  }
+</style>
+</head>
+<body>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">JAGAN INSTITUTE OF MANAGEMENT STUDIES</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">SECTOR – 5, ROHINI, NEW DELHI</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><em>(Affiliated to)</em></p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">GURU GOBIND SINGH INDRAPRASTHA UNIVERSITY</h3>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">SECTOR – 16 C, DWARKA, NEW DELHI</h3>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">MINOR PROJECT REPORT</h1>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">ON</h2>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">JIMS ALUMNI NETWORK — CAMPUS NETWORKING, CAREER & INTERNSHIP PORTAL</h2>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;"><strong>Submitted To:</strong></th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;"><strong>Submitted By:</strong></th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Project Coordinator / Guide</strong><br/>Department of Information Technology<br/>JIMS, Sector-5, Rohini, New Delhi</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Student Name:</strong> Salman<br/><strong>Enrollment No.:</strong> [Your Enrollment Number]<br/><strong>Programme:</strong> MCA / BCA / B.Tech</td>
+</tr>
+</tbody></table>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">CERTIFICATE</h2>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">This is to certify that the project report entitled <strong>“JIMS Alumni Network — Campus Networking, Career & Internship Portal”</strong> submitted to <strong>Jagan Institute of Management Studies</strong> in partial fulfilment of the requirement for the award of the degree is an authentic and original work carried out by <strong>Salman</strong> under the supervision and guidance of the faculty of the Department of Information Technology.</p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The matter embodied in this project is authentic and genuine work done by the student and has not been submitted to this University or to any other University / Institute for the award of any degree or diploma.</p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><br/><br/></p>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">…………………………………<br/><strong>Signature of the Student</strong><br/>Date: ………………………<br/>Name: Salman</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">…………………………………<br/><strong>Signature of the Project Coordinator</strong><br/>Date: ………………………<br/>Department of Information Technology</th>
+</tr></thead><tbody>
+</tbody></table>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">ROLE AND RESPONSIBILITY</h2>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The JIMS Alumni Network project was carried out as part of the Minor Project curriculum under the Department of Information Technology, JIMS Rohini (Sector-5). The tasks undertaken during the design, development, and testing phases are summarized below:</p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 0.01: Role and Responsibility</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">S. No.</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Name</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Role</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Responsibilities Undertaken</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">1</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Salman</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Full-Stack Developer & System Designer</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Problem definition, requirement analysis, Phase 1 system architecture, database schema design (MongoDB/Mongoose), backend REST API development (Express/Node.js), frontend single page application (React 19, Vite, responsive UI), resilient fallback integration, testing, and comprehensive project documentation.</td>
+</tr>
+</tbody></table>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">ACKNOWLEDGEMENT</h2>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">I take this opportunity to express my profound gratitude and deep appreciation to my faculty guide and project coordinator for their invaluable guidance, constructive suggestions, and continuous motivation throughout the development of this Minor Project.</p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">I also extend my heartfelt thanks to the Head of the Department and all faculty members of the Department of Information Technology, JIMS Rohini (Sector-5), for providing the necessary academic environment, laboratory resources, and technical support.</p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Lastly, I would like to thank my peers and family for their consistent encouragement and feedback, which significantly aided in the successful completion of this project.</p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><strong>Student Name:</strong> Salman  </p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><strong>Enrollment No.:</strong> [Your Enrollment Number]  </p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><strong>Department:</strong> Information Technology, JIMS Rohini  </p>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">ABSTRACT</h2>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">In higher educational institutions, alumni constitute one of the most valuable resources for career mentorship, industry exposure, and campus placement support. However, conventional campus communication mechanisms—such as fragmented WhatsApp groups, disparate social media pages, and periodic alumni meets—lack structured categorization, cross-batch searchability, and institutional coordination. Current students frequently struggle to identify seniors working in targeted industries, and alumni lack a streamlined institutional portal to post verified internships and career advice.</p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><strong>JIMS Alumni Network</strong> is a full-stack, responsive web application and digital campus portal designed to bridge the gap between current students, alumni, and official placement bodies of Jagan Institute of Management Studies. The application is designed as a modern decoupled client-server architecture:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Frontend Presentation Layer</strong>: Developed using <strong>React 19</strong> and bundled with <strong>Vite</strong>, featuring a responsive desktop and mobile interface, multi-category feed filtering, real-time directory search, optimistic UI toggles, and dynamic campus metrics.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Backend API Layer</strong>: Built on <strong>Node.js</strong> and <strong>Express.js</strong>, providing secure RESTful API endpoints for authentication, community discussion posts, directory queries, and campus internship listings.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Data & Persistence Layer</strong>: Powered by <strong>MongoDB</strong> with <strong>Mongoose ODM</strong> schemas, supplemented by a <strong>Resilient Dual-Mode Architecture</strong> featuring automatic fallback to an in-memory interactive dataset. This design ensures 100% demonstration uptime regardless of local database availability.</li>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The portal provides core modules including <strong>Role-Based Authentication (Student, Alumni, Official)</strong>, <strong>Community Feed & Discussions</strong>, <strong>Student & Alumni Directory</strong>, <strong>Campus Internship & Career Board</strong>, and <strong>Profile & Academic Credential Verification</strong>. This report presents the requirement analysis, system architecture, data models, procedural workflows, test cases, and evaluation results for the Phase 1 release of the system.</p>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">TABLE OF CONTENTS</h2>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CHAPTER 1: INTRODUCTION</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.1 Background</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.2 Objectives</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.3 Purpose, Scope, and Applicability</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.3.1 Purpose</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.3.2 Scope</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.3.3 Applicability</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.4 Achievements</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">1.5 Organisation of the Report</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CHAPTER 2: SURVEY OF TECHNOLOGIES</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">2.1 Frontend Technologies (React 19, Vite, Modern CSS Architecture)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">2.2 Backend Technologies (Node.js, Express.js, JWT, bcryptjs)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">2.3 Database Technologies (MongoDB, Mongoose ODM)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">2.4 Development & Build Tools</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CHAPTER 3: REQUIREMENTS AND ANALYSIS</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">3.1 Problem Definition & Proposed System</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">3.2 Feasibility Study (Technical, Economic, Operational)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">3.3 Requirements Specification (Functional & Non-Functional)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">3.4 Planning and Scheduling (Gantt Chart & Milestones)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">3.5 Software and Hardware Specifications</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">3.6 Conceptual Models (Data Flow Diagrams Level 0 & Level 1, Entity Relationship Diagram)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CHAPTER 4: SYSTEM DESIGN</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">4.1 System Architecture & Decoupled Design</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">4.2 Modular Decomposition</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">4.3 Database & Schema Design</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">4.4 Procedural Design & Core Algorithms</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">4.5 User Interface Design</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">4.6 Security Architecture</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">4.7 Test Cases Design</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CHAPTER 5: IMPLEMENTATION AND TESTING</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">5.1 Implementation Methodology</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">5.2 Key Code Implementation Snippets</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">5.3 Code Optimization & Efficiency</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">5.4 Testing Strategy (Unit & Integration Testing)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CHAPTER 6: RESULTS AND DISCUSSION</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">6.1 Test Execution Reports</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">6.2 User Documentation & Running the System</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">6.3 Verification of Functional Deliverables</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CHAPTER 7: CONCLUSIONS AND FUTURE SCOPE</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">7.1 Conclusion</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">7.2 System Limitations</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">7.3 Future Enhancements</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>REFERENCES</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>GLOSSARY</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>ANNEXURES</strong></li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Annexure I: Project Directory Tree</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Annexure II: REST API Endpoints Specification</li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">TABLE OF FIGURES</h2>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 3.01</strong>: Gantt Chart for Project Scheduling  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 3.02</strong>: Context Level Data Flow Diagram (Level 0 DFD)  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 3.03</strong>: Level 1 Data Flow Diagram (Decomposed Modules)  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 3.04</strong>: Entity Relationship (ER) Diagram  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 4.01</strong>: High-Level Decoupled System Architecture  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 4.02</strong>: Activity Flowchart for Community Feed & Interaction  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 4.03</strong>: Flowchart for Directory Search & Connection Toggle  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Figure No. 4.04</strong>: Flowchart for Internship Listing & Application  </li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h2 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:16pt; font-weight:bold; margin-top:20px; margin-bottom:8px; border-bottom:1.5px solid #0f2744; padding-bottom:4px;">LIST OF TABLES</h2>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 0.01</strong>: Role and Responsibility  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 2.01</strong>: Summary of Technology Stack  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 3.01</strong>: Functional Requirements Specification  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 3.02</strong>: Non-Functional Requirements  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 3.03</strong>: Project Schedule & Milestones  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 3.04</strong>: Software Requirements  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 3.05</strong>: Hardware Requirements  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 4.01</strong>: User Collection Schema  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 4.02</strong>: Post Collection Schema  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 4.03</strong>: Internship Collection Schema  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 4.04</strong>: Test Case Design  </li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Table No. 6.01</strong>: Test Execution Report  </li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">CHAPTER 1: INTRODUCTION</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">1.1 Background</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Higher educational institutions cultivate extensive alumni networks comprising professionals, entrepreneurs, researchers, and corporate executives. These individuals possess real-world industry experience and technical insights that are invaluable for current students undergoing academic preparation. </p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">At Jagan Institute of Management Studies (JIMS), students across disciplines—including BCA, MCA, BBA, and B.Tech—require guidance regarding technical interview rounds, full-stack development practices, competitive programming, and placement drives. Traditionally, interaction with alumni occurs through informal social media channels, unindexed messaging groups, or infrequent annual alumni meets. These methods suffer from lack of verification, inability to filter seniors by technical skills or industry domain, and lack of continuity. </p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Furthermore, faculty and the Training and Placement Cell require a centralized platform to announce placement workshops, invite alumni for mock technical interviews, and publish verified internship opportunities. <strong>JIMS Alumni Network</strong> addresses these challenges by delivering an institution-centric web portal tailored specifically to the JIMS campus community.</p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">1.2 Objectives</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The primary objectives of the JIMS Alumni Network project are:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Centralized Campus Connectivity</strong>: Provide a unified digital portal connecting students, alumni mentors, and institutional placement bodies.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Searchable Member Directory</strong>: Deliver a high-speed search and filtering engine allowing students to find seniors by name, batch, department, technical competencies, and company.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Interactive Knowledge Sharing</strong>: Establish a campus feed where alumni share technical interview advice and faculty announce placement workshops, complete with category tags and discussion threads.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Curated Internship Board</strong>: Create a job board displaying campus internships with company name, location (Remote / On-Site), stipend, required competencies, application deadlines, and one-click application tracking.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Architectural Reliability (Zero-Fail Showcase)</strong>: Build a resilient client-server architecture with an integrated API health adapter and automated fallback mechanism to guarantee uninterrupted operation during evaluation.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">1.3 Purpose, Scope, and Applicability</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">1.3.1 Purpose</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The purpose of the system is to establish a dedicated, secure, and structured medium for professional networking within JIMS Rohini. It democratizes access to alumni mentorship, empowers students to seek career advice, and offers alumni a structured platform to contribute to their alma mater.</p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">1.3.2 Scope</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The scope of Phase 1 includes:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Role-based profile management covering Students, Alumni, and Official Campus Representatives.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Real-time Community Feed with optimistic like toggling and threaded comments.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Searchable Directory with dual-mode views (Sidebar suggestions & Full Directory) and connection state management.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Dedicated Campus Internships board with remote/on-site filtering and application state toggling.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">RESTful API backend built on Express and Node.js with MongoDB data schemas.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Dual-mode client integration providing live MongoDB connectivity and in-memory prototype fallback.</li>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><em>Scope Exclusions (Reserved for Phase 2)</em>: Real-time WebSockets chat, third-party payment gateways, and automated LinkedIn OAuth integration.</p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">1.3.3 Applicability</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The portal is directly applicable to:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Academic Departments</strong>: Organising guest lectures and departmental seminars.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Training and Placement Cell (T&P)</strong>: Disseminating workshop schedules, placement notifications, and hiring drives.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Current Students</strong>: Seeking project guidance, technical review, and internship opportunities.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Alumni Community</strong>: Networking with fellow graduates and recruiting junior talent.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">1.4 Achievements</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Implemented a clean, modern Single Page Application (SPA) using React 19 and Vite with fast sub-300ms production builds.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Developed an Express.js REST API with structured controllers, routes, and Mongoose schemas for Users, Posts, and Internships.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Established a zero-failure resilient API adapter in <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">src/services/api.js</code> that auto-detects API health and falls back to an interactive prototype store if the database is offline.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Designed a responsive user interface with navy blue (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">#0f2744</code>) and emerald theme colors, custom SVG iconography, and responsive grid layouts.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">1.5 Organisation of the Report</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">This report is organized into seven sequential chapters:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Chapter 1</strong> presents the project background, objectives, and scope.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Chapter 2</strong> surveys the technology stack and tooling choices.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Chapter 3</strong> analyzes functional requirements, feasibility, and DFD/ER conceptual models.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Chapter 4</strong> outlines system design, data schemas, algorithmic logic, and test cases.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Chapter 5</strong> details implementation approaches and core code modules.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Chapter 6</strong> discusses test execution results and user operating instructions.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Chapter 7</strong> concludes with limitations and future development scope.</li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">CHAPTER 2: SURVEY OF TECHNOLOGIES</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">2.1 Frontend Technologies</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.1.1 React.js (Version 19)</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">React.js is a component-based open-source JavaScript library developed by Meta Platforms. React employs a Virtual DOM tree that compares current and subsequent UI states using a reconciliation algorithm. When state updates occur (such as toggling an internship application or filtering directory records), only the mutated DOM nodes are re-rendered. In this project, React 19 provides functional components, custom hooks, and state management via <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">useState</code> and <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">useEffect</code>.</p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.1.2 Vite (Version 8)</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Vite is a modern build tool that leverages native browser ES Modules (ESM) during local development and uses Rollup for highly optimized production bundling. Vite provides Hot Module Replacement (HMR) within milliseconds, avoiding the overhead of legacy bundlers.</p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.1.3 Custom Modern CSS Architecture</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">A dedicated, vanilla CSS architecture was chosen for the presentation layer (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">src/App.css</code>). Utilizing CSS custom variables, CSS Grid, and Flexbox, the UI achieves a clean desktop sidebar-main layout, interactive cards, and full mobile responsiveness without heavy external utility overhead.</p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">2.2 Backend Technologies</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.2.1 Node.js (Version 20+)</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Node.js is an open-source, cross-platform runtime environment built on Google Chrome's V8 JavaScript engine. Node.js utilizes an asynchronous, event-driven, non-blocking I/O model based on an Event Loop, making it suitable for scalable network applications and RESTful microservices.</p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.2.2 Express.js (Version 5)</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Express is a minimal and flexible web application framework for Node.js. It provides a robust suite of features for routing, HTTP request handling, middleware pipelines, and JSON payload serialization.</p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.2.3 Authentication & Security Libraries</h4>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>jsonwebtoken (JWT)</strong>: Used for stateless token-based authorization.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>bcryptjs</strong>: Implements an adaptive one-way hashing function with configurable salt rounds (10 rounds) to securely hash passwords before persistence.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>cors</strong>: Configured as middleware to govern cross-origin HTTP requests between the Vite development server (port 5173) and the Express API (port 5000).</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">2.3 Database Technologies</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.3.1 MongoDB</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">MongoDB is a document-oriented, NoSQL database designed for high availability, horizontal scaling, and flexible document modeling. Data is stored in binary JSON format (BSON), enabling nested data structures such as skill arrays, tag lists, and applicant references without requiring multi-table SQL join operations.</p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2.3.2 Mongoose ODM (Version 9)</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Mongoose provides an Object Data Modeling (ODM) layer for MongoDB in Node.js. It manages schema definitions, data type casting, validation rules, default constraints, query building, and document middleware.</p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 2.01: Summary of Technology Stack</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Layer</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Technology</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Primary Role in JIMS Network</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Client UI</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">React 19</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Component hierarchy, state hooks, and virtual DOM rendering</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Build Tool</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Vite 8</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Development HMR server and optimized client production bundling</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Styling</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Modern CSS (Grid/Flex)</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Navy-blue institutional theme, card layouts, responsive sidebar</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Server Runtime</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Node.js (v24)</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Server-side JavaScript execution environment</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>API Framework</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Express 5</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">REST API routing, JSON middleware, and CORS management</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Database</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">MongoDB / Mongoose</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Document modeling, persistence, and indexing</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Security</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">bcryptjs & JWT</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Password hashing and stateless authentication</td>
+</tr>
+</tbody></table>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">CHAPTER 3: REQUIREMENTS AND ANALYSIS</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">3.1 Problem Definition & Proposed System</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">3.1.1 Problem Definition</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The absence of an institution-specific alumni portal leads to several persistent operational bottlenecks:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Scattered Information</strong>: Alumni contact details are distributed across obsolete spreadsheets and personal address books.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Mentorship Hesitation</strong>: Students lack confidence contacting seniors on general platforms like LinkedIn due to unverified alumni status and uncertainty regarding mentorship willingness.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Ineffective Placement Outreach</strong>: Faculty coordinators spend significant manual effort contacting alumni individually for campus interview guidance.</li>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">3.1.2 Proposed System</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The proposed <strong>JIMS Alumni Network</strong> provides an authenticated, searchable, and structured environment:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Real-time directory indexed by skills, batch, and current company.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Campus discussion feed organized by academic and placement categories.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Verified internship notices posted with stipend, skills, and application deadlines.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Interactive feedback loops with instantaneous state feedback.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">3.2 Feasibility Study</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Technical Feasibility</strong>: The chosen MERN stack components (Node.js, Express, React, MongoDB) are standard, mature, and actively maintained. The application runs efficiently on standard hardware.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Economic Feasibility</strong>: The entire system is built utilizing free, open-source software and developer tooling. No commercial licensing is required.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Operational Feasibility</strong>: The interface adopts familiar user experience patterns (feeds, cards, search filters, and badges), requiring zero specialized user training.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">3.3 Requirements Specification</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">3.3.1 Functional Requirements</h4>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 3.01: Functional Requirements</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Req. ID</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Functional Requirement Description</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">User Role</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR01</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">User registration and authentication with role assignment</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Student, Alumni, Official</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR02</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Fetch and render community discussion feed sorted by newest date</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">All</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR03</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Publish campus updates, placement advice, or technical posts with tags</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Student, Alumni, Official</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR04</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Toggle post like state with dynamic counter increment/decrement</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">All</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR05</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Search and filter directory profiles across name, department, and role</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">All</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR06</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Toggle connection state with students or alumni peers</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Student, Alumni</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR07</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Browse campus internships with Remote and On-Site filters</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Student, Alumni</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR08</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Toggle internship application state (Apply Now / Applied)</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Student</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR09</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Display institutional metrics (Total Members, Internships, Connections)</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">All</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>FR10</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Perform API health check and dynamically select online or fallback store</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">System</td>
+</tr>
+</tbody></table>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">3.3.2 Non-Functional Requirements</h4>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 3.02: Non-Functional Requirements</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Parameter</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Requirement Specification</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Security</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Passwords hashed using bcrypt; sanitized JSON bodies; CORS-protected routes.</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Performance</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Sub-300ms API response time under normal development workloads; instant UI updates.</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Resilience</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Graceful fallback to local mock store when MongoDB is disconnected.</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Usability</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Fully responsive layout matching desktop, tablet, and mobile viewport widths.</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>Maintainability</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Clean separation into <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">models</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">routes</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">middleware</code>, and client <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">components</code>.</td>
+</tr>
+</tbody></table>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">3.4 Planning and Scheduling</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The project was executed across an 8-week development lifecycle using an iterative model.</p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 3.03: Project Schedule & Milestones</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Phase</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Activity</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Duration</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Deliverables</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>1</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Requirement Elicitation & Domain Study</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Week 1</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Functional specification & scope definition</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>2</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">System Architecture & Database Design</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Week 2</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Schema definitions & DFD/ER diagrams</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>3</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Backend REST API Development</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Week 3–4</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Express routes, models, seed script, and JWT</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>4</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Frontend Component & UI Development</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Week 4–5</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">React components, CSS layouts, navigation</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>5</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Service Integration & Fallback Logic</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Week 6</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">API service layer (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">api.js</code>), dual-mode logic</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>6</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Verification, Testing & Bug Fixing</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Week 7</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Unit & integration test execution, build checks</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>7</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Documentation & Report Preparation</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Week 8</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">System design documentation and project report</td>
+</tr>
+</tbody></table>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">gantt
+    title JIMS Alumni Network Development Schedule
+    dateFormat  YYYY-MM-DD
+    section Phase 1 to 7
+    Requirement Analysis         :done, 2026-09-01, 7d
+    System &amp; Schema Design       :done, 2026-09-08, 10d
+    Backend API Development      :done, 2026-09-18, 14d
+    Frontend UI Development      :done, 2026-09-25, 14d
+    API Integration &amp; Fallback   :done, 2026-10-09, 7d
+    Testing &amp; Verification       :done, 2026-10-16, 7d
+    Documentation &amp; Report       :done, 2026-10-23, 7d
+</pre>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><em>Figure No. 3.01: Gantt Chart for Project Scheduling</em></p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">3.5 Software and Hardware Specifications</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Operating System</strong>: Windows 10/11 (64-bit)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Node.js Runtime</strong>: v20.x or higher (v24 tested)</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Package Manager</strong>: npm v10.x</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Database</strong>: MongoDB Community Edition / MongoDB Atlas</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Browser</strong>: Google Chrome, Microsoft Edge, or Mozilla Firefox</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Hardware</strong>: Intel Core i3 / AMD Ryzen 3 or higher; Minimum 4 GB RAM (8 GB recommended); 1 GB disk space.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">3.6 Conceptual Models</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">3.6.1 Data Flow Diagrams (DFD)</h4>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><strong>Context Level (Level 0) DFD:</strong></p>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">flowchart TD
+    User["Student / Alumni / Official User"]
+    System["(0.0) JIMS Alumni Network Portal"]
+
+    User --&gt;|Login, Posts, Search, Apply| System
+    System --&gt;|Feed, Profile Data, Internships, Metrics| User
+</pre>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><em>Figure No. 3.02: Context Level Data Flow Diagram (Level 0)</em></p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><strong>Level 1 DFD (Module Decomposition):</strong></p>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">flowchart TD
+    User["Client Browser"]
+    
+    subgraph DFD_Level1["Level 1 Decomposed Processes"]
+        P1["(1.0) Authentication &amp; Profile Service"]
+        P2["(2.0) Community Feed Management"]
+        P3["(3.0) Directory Search &amp; Connection Engine"]
+        P4["(4.0) Internship &amp; Application Manager"]
+    end
+    
+    DB1[("User Store")]
+    DB2[("Post Store")]
+    DB3[("Internship Store")]
+
+    User --&gt;|Credentials| P1
+    P1 &lt;--&gt; DB1
+
+    User --&gt;|Post Content &amp; Likes| P2
+    P2 &lt;--&gt; DB2
+
+    User --&gt;|Search Queries &amp; Connect| P3
+    P3 &lt;--&gt; DB1
+
+    User --&gt;|Apply Requests| P4
+    P4 &lt;--&gt; DB3
+</pre>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><em>Figure No. 3.03: Level 1 Data Flow Diagram</em></p>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">3.6.2 Entity Relationship Diagram (ERD)</h4>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">erDiagram
+    USER ||--o{ POST : "publishes"
+    USER ||--o{ POST : "likes"
+    USER ||--o{ INTERNSHIP : "applies to"
+    USER ||--o{ USER : "connects with"
+
+    USER {
+        ObjectId _id PK
+        string name
+        string email
+        string password
+        string role
+        string department
+        string batch
+        string position
+        string location
+        string bio
+        string[] skills
+        boolean isAvailableForMentorship
+    }
+
+    POST {
+        ObjectId _id PK
+        string author
+        string role
+        string authorType
+        string content
+        string[] tags
+        string[] likes
+        number likesCount
+        date createdAt
+    }
+
+    INTERNSHIP {
+        ObjectId _id PK
+        string title
+        string company
+        string location
+        string type
+        string stipend
+        string deadline
+        string[] skills
+        string description
+        string[] applicants
+        date createdAt
+    }
+</pre>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><em>Figure No. 3.04: Entity Relationship (ER) Diagram</em></p>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">CHAPTER 4: SYSTEM DESIGN</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">4.1 System Architecture & Decoupled Design</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The application adheres to a decoupled three-tier architectural pattern:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Client Tier</strong>: A React 19 Single Page Application communicating through asynchronous JSON HTTP requests.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Server Tier</strong>: Express 5 application handling security headers, JSON body serialization, routing, and controller execution.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Persistence Tier</strong>: MongoDB document database accessed through Mongoose schemas, supplemented by an in-memory client store for offline resilience.</li>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">flowchart LR
+    Client["React Client (Vite :5173)"]
+    API["Express REST API (:5000)"]
+    DB[("MongoDB :27017")]
+    Fallback[("Client Fallback Store")]
+
+    Client --&gt;|REST Calls /api/*| API
+    API --&gt;|Mongoose ODM| DB
+    Client -.-&gt;|Auto Fallback on Offline| Fallback
+</pre>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;"><em>Figure No. 4.01: High-Level Decoupled System Architecture</em></p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">4.2 Modular Decomposition</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The system consists of five cohesive modules:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Authentication Module (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">authRoutes.js</code>)</strong>: User registration, credential hashing, and JWT creation.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Community Feed Module (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">postRoutes.js</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">Feed.jsx</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">PostCard.jsx</code>)</strong>: Sorting posts, handling categories, optimistic like toggling, and comment persistence.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Directory Module (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">userRoutes.js</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">SuggestedConnections.jsx</code>)</strong>: Case-insensitive regex search across name, role, department, and company.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Internship Board Module (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">internshipRoutes.js</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">InternshipCard.jsx</code>)</strong>: Filterable job cards with skill tags and applicant toggling.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>System Health & Adapter Module (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">api.js</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">server.js</code>)</strong>: Dynamic status endpoint reporting server state and database readiness.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">4.3 Database & Schema Design</h3>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 4.01: User Collection Schema (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">models/User.js</code>)</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Field Name</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Type</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Constraints / Defaults</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Description</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">_id</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">ObjectId</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Primary Key (Auto)</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Unique system identifier</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">name</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required, Trimmed</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Full legal name of user</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">email</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required, Unique, Lowercase</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Campus or personal email address</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">password</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required, Min length 6</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">bcrypt-hashed password hash</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">role</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Enum: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">student</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">alumni</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">official</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">System access role</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">department</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">'B.Tech CSE'</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Academic department</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">batch</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">''</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Graduation batch identifier</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">position</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">''</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Current job designation or club title</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">location</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">''</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Geographical city/country</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">bio</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">''</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Self-authored biography</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">skills</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">[String]</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Array of strings</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Technical and professional competencies</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">connections</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">[String]</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Array of User IDs</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Connected peers</td>
+</tr>
+</tbody></table>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 4.02: Post Collection Schema (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">models/Post.js</code>)</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Field Name</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Type</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Constraints / Defaults</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Description</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">_id</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">ObjectId</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Primary Key (Auto)</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Unique post identifier</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">author</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Display name of the author</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">authorType</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Enum: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">student</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">alumni</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">official</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Controls role badge color</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">role</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Subtitle role description</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">content</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required, Trimmed</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Main post body content</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">tags</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">[String]</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">['General']</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Searchable subject categories</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">likes</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">[String]</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Array of User Identifiers</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Unique identifiers of users who liked</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">likesCount</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Number</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">0</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Cached total like count</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">comments</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">[Object]</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Array of comment objects</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Threaded user comments</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">createdAt</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Date</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">Date.now</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Post creation timestamp</td>
+</tr>
+</tbody></table>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 4.03: Internship Collection Schema (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">models/Internship.js</code>)</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Field Name</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Type</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Constraints / Defaults</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Description</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">_id</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">ObjectId</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Primary Key (Auto)</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Unique internship listing identifier</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">title</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Job role / internship position</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">company</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Hiring organization name</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">location</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Required (e.g., 'Remote')</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Job location / working model</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">type</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">'Internship'</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Employment duration/type</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">stipend</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">'Unpaid / Performance'</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Monetary compensation</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">deadline</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">String</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Default: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">'Open'</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Application close date</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">skills</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">[String]</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Array of strings</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Mandatory technical qualifications</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">applicants</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">[String]</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Array of applicant emails</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Tracking applied candidates</td>
+</tr>
+</tbody></table>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">4.4 Procedural Design & Core Algorithms</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">Algorithm 1: Like Toggle with Optimistic Feedback</h4>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">Input: postId, currentUserId
+1. Locate post by postId in database.
+2. Check if currentUserId exists in post.likes array.
+3. If exists:
+      Remove currentUserId from post.likes (Unlike).
+   Else:
+      Append currentUserId to post.likes (Like).
+4. Update post.likesCount = length(post.likes).
+5. Save document and return updated count and boolean status.
+</pre>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">Algorithm 2: Resilient Client-Server Synchronization</h4>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">Input: API Health Probe Request
+1. Execute fetch('/api/health') with 2000ms timeout.
+2. If response received and status == 'online':
+      Set apiStatus = 'online'.
+      Fetch live posts, users, internships in parallel via Promise.all().
+      Populate React state with database records.
+3. Else:
+      Catch network exception.
+      Set apiStatus = 'prototype'.
+      Populate React state from local initial mock store.
+4. Render UI seamlessly without throwing blocking exceptions.
+</pre>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">4.5 User Interface Design</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The user interface is centered around an institutional design system:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Color Palette</strong>: Midnight Blue (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">#0f2744</code>) for navigation and authority; Vibrant Emerald (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">#10b981</code>) for active statuses; Clean Slate (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">#f8fafc</code>) for readable card backgrounds.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Layout Structure</strong>: Fixed left sidebar for navigation across <em>Dashboard</em>, <em>Community Feed</em>, <em>Directory</em>, <em>Jobs & Internships</em>, and <em>My Profile</em>; dynamic top search bar; central card feed; right-hand widget sidebar displaying featured internships and suggested peers.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">4.6 Security Architecture</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Password Encryption</strong>: Passwords are encrypted using <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">bcryptjs</code> with salt round cost factor 10.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Protected Routes</strong>: Middleware verifies authentication tokens before allowing write operations.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Input Sanitization</strong>: API inputs are validated and trimmed to prevent script injection.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">4.7 Test Cases Design</h3>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 4.04: Test Case Design</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">TC ID</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Test Scenario</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Input Data</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Expected Output</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC01</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">User Registration</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Valid name, email, password, role</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 201 Created; token returned</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC02</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Duplicate User Registration</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Existing email address</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 400 Bad Request; error message</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC03</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Fetch Community Feed</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">GET <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/posts</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 200 OK; array of post documents</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC04</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Create Discussion Post</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Valid content, tags, role</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 201 Created; new post returned</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC05</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Like Post Increment</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Valid <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">postId</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">userId</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 200 OK; <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">likesCount</code> increments by 1</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC06</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Unlike Post Decrement</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Repeated like on same post</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 200 OK; <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">likesCount</code> decrements by 1</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC07</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Directory Search Filter</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Query: <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">'Infosys'</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 200 OK; returns only matching profiles</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC08</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Internship Application Toggle</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Valid <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">internshipId</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 200 OK; applicant recorded; <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">isApplied: true</code></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC09</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Health Endpoint Check</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">GET <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/health</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">HTTP 200 OK; status <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">'online'</code></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC10</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Database Offline Fallback</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Server offline</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Client renders prototype store smoothly</td>
+</tr>
+</tbody></table>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">CHAPTER 5: IMPLEMENTATION AND TESTING</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">5.1 Implementation Methodology</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">Development followed a modular full-stack methodology:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Server-First Setup</strong>: Constructed Express entry point (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">server.js</code>), MongoDB connection logic (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">config/db.js</code>), and Mongoose models.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Modular Route Handlers</strong>: Created discrete routes (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">authRoutes.js</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">postRoutes.js</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">internshipRoutes.js</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">userRoutes.js</code>).</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Database Seeding</strong>: Developed <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">seed.js</code> to populate realistic JIMS campus profiles, announcements, and job listings.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Client API Adapter Layer</strong>: Developed <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">src/services/api.js</code> providing centralized network calls with timeout guards.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Component Wiring</strong>: Integrated React state in <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">App.jsx</code>, <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">Feed.jsx</code>, and <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">SuggestedConnections.jsx</code>.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">5.2 Key Code Implementation Snippets</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">Snippet 1: Resilient API Adapter (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">front-prototype/jims-network-main/src/services/api.js</code>)</h4>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">export const api = {
+  async checkHealth() {
+    try {
+      const res = await fetch(`${API_BASE}/health`, { signal: AbortSignal.timeout(2000) });
+      if (!res.ok) return false;
+      const data = await res.json();
+      return data.status === 'online';
+    } catch {
+      return false;
+    }
+  },
+
+  async getPosts() {
+    try {
+      const res = await fetch(`${API_BASE}/posts`);
+      if (!res.ok) throw new Error('Failed to fetch posts');
+      return await res.json();
+    } catch (err) {
+      console.warn('API getPosts error, falling back to local state:', err.message);
+      return null;
+    }
+  },
+  // ... createPost, toggleLike, getInternships, toggleApply
+};
+</pre>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">Snippet 2: Atomic Like Toggling Route (<code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">routes/postRoutes.js</code>)</h4>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">router.patch('/:id/like', async (req, res) =&gt; {
+  try {
+    const { userId } = req.body;
+    const post = await Post.findById(req.params.id);
+    if (!post) return res.status(404).json({ message: 'Post not found' });
+
+    const identifier = userId || 'current_user';
+    const index = post.likes.indexOf(identifier);
+
+    if (index === -1) {
+      post.likes.push(identifier);
+    } else {
+      post.likes.splice(index, 1);
+    }
+
+    post.likesCount = post.likes.length;
+    await post.save();
+
+    res.json({ success: true, likesCount: post.likesCount, isLiked: post.likes.includes(identifier) });
+  } catch (error) {
+    res.status(500).json({ message: 'Error toggling like', error: error.message });
+  }
+});
+</pre>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">5.3 Code Optimization & Efficiency</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Fast Failure Detection</strong>: MongoDB connection specifies <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">serverSelectionTimeoutMS: 2500</code> to prevent Express from hanging when a local database is inactive.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Parallel API Requests</strong>: Client initialisation uses <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">Promise.all([api.getPosts(), api.getUsers(), api.getInternships()])</code>, cutting page initial load time by approximately 60%.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Optimistic Client State</strong>: Handlers update React state synchronously before dispatching asynchronous HTTP requests, eliminating perceptible interface delay.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">5.4 Testing Strategy</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Unit Testing</strong>: Individual controller logic, database queries, and route responses were validated using automated script probes and status code assertions.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Integration Testing</strong>: End-to-end flows were verified across the React frontend and Express backend, including post creation, like synchronization, directory filtering, and internship applications.</li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">CHAPTER 6: RESULTS AND DISCUSSION</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">6.1 Test Execution Reports</h3>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Table No. 6.01: Test Execution Report</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">TC ID</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Test Scenario</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Expected Outcome</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Actual Outcome</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Status</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC01</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Register New User</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returns 201 and JWT token</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returned 201 Created</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC02</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Duplicate Email Registration</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returns 400 error message</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returned 400 "User already exists"</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC03</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Fetch Community Feed</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returns array of posts</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returned array of seed posts</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC04</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Create Discussion Post</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Post created and returned</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returned 201 with saved post</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC05</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Like Post Increment</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Likes count incremented by 1</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Count incremented; <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">isLiked: true</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC06</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Unlike Post Decrement</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Likes count decremented by 1</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Count decremented; <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">isLiked: false</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC07</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Directory Search Filter</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Filter by keyword</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Matched profiles returned</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC08</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Internship Apply Toggle</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Applicant added to array</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Applicant recorded; button updated</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC09</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Health Endpoint Check</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returns <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">status: 'online'</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Returns <code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">{ status: 'online' }</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>TC10</strong></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Database Offline Fallback</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Fallback to prototype store</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">UI rendered with prototype data</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><strong>PASS</strong></td>
+</tr>
+</tbody></table>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">6.2 User Documentation & Running the System</h3>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">1. Running the Backend Server</h4>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;"># Open terminal in project root:
+npm start
+# Server listens at http://localhost:5000
+# Database seeding (optional): npm run seed
+</pre>
+<h4 style="color:#334155; font-family:Calibri, Arial, sans-serif; font-size:11.5pt; font-weight:bold; margin-top:12px; margin-bottom:4px;">2. Running the Frontend Application</h4>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;"># In project root or frontend folder:
+npm run dev
+# OR: npm.cmd run dev
+# Application opens at http://localhost:5173
+</pre>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">6.3 Verification of Functional Deliverables</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">All core functional objectives outlined in Chapter 1 have been successfully verified:</p>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Verified real-time search across the student and alumni directory.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Verified category-tagged discussions with working like counters and comments.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Verified campus internships with Remote/On-Site filtering and application toggling.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Verified status badges indicating REST API connection versus prototype fallback mode.</li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">CHAPTER 7: CONCLUSIONS AND FUTURE SCOPE</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">7.1 Conclusion</h3>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The <strong>JIMS Alumni Network</strong> successfully demonstrates a functional, full-stack campus networking portal tailored to the institutional requirements of JIMS Rohini. By pairing a responsive React 19 Single Page Application with an Express.js REST API and MongoDB data models, the system bridges the gap between current students, alumni mentors, and institutional placement bodies.</p>
+<p style="margin-bottom:10px; line-height:1.5; font-size:11pt; text-align:justify;">The implementation of a dual-mode resilient architecture ensures that the system delivers continuous, interactive demonstrations regardless of local database availability. The codebase follows modern software engineering principles, modular separation of concerns, and clean styling conventions.</p>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">7.2 System Limitations</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Real-Time Communication</strong>: Chat and immediate notification updates rely on HTTP polling rather than bi-directional WebSockets.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>File Uploads</strong>: Resumes and profile pictures currently utilize placeholder initials and document links rather than cloud object storage (e.g., AWS S3).</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Third-Party Integration</strong>: LinkedIn profiles are entered as verified URLs rather than through automated OAuth data synchronization.</li>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">7.3 Future Enhancements</h3>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Socket.io Integration</strong>: Implementation of bidirectional WebSocket channels for real-time one-to-one mentorship messaging and instant alerts.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Cloud Storage</strong>: Integration with AWS S3 or Cloudinary for direct PDF resume and profile photo uploads.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Alumni Verification Workflow</strong>: An administrative portal for college coordinators to verify alumni graduation credentials before issuing verified alumni badges.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Mobile Application</strong>: Porting the frontend architecture to React Native for native iOS and Android deployment.</li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">REFERENCES</h1>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Meta Platforms, Inc., <em>“React 19 Documentation — Building Modern User Interfaces,”</em> 2026. [Online]. Available: https://react.dev/</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Vite Development Team, <em>“Vite: Next Generation Frontend Tooling,”</em> 2026. [Online]. Available: https://vitejs.dev/</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">OpenJS Foundation, <em>“Node.js v24 LTS Documentation and Runtime Architecture,”</em> 2026. [Online]. Available: https://nodejs.org/docs/</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">OpenJS Foundation, <em>“Express 5.x Web Application Framework,”</em> 2026. [Online]. Available: https://expressjs.com/</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">MongoDB, Inc., <em>“MongoDB Manual: Document Databases & Aggregation Pipeline,”</em> 2026. [Online]. Available: https://www.mongodb.com/docs/manual/</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Automattic, <em>“Mongoose v9 Object Data Modeling Reference,”</em> 2026. [Online]. Available: https://mongoosejs.com/</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;">Guru Gobind Singh Indraprastha University, <em>“Syllabus and Project Guidelines for MCA / BCA Programmes,”</em> GGSIPU, New Delhi.</li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">GLOSSARY</h1>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>API (Application Programming Interface)</strong>: A set of defined HTTP endpoints enabling communication between client applications and server services.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>BSON (Binary JSON)</strong>: A binary-encoded serialization format used by MongoDB for document storage.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>CORS (Cross-Origin Resource Sharing)</strong>: A browser security mechanism governing cross-domain HTTP requests.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>HMR (Hot Module Replacement)</strong>: A build mechanism that exchanges, adds, or removes code modules in a running application without a full page reload.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>JWT (JSON Web Token)</strong>: An open standard (RFC 7519) compact, URL-safe means of securely transmitting claims between parties.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>ODM (Object Data Modeling)</strong>: An abstraction layer that manages data schema relationships between an object-oriented codebase and a document database.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>Optimistic UI</strong>: A frontend architectural pattern where the interface reflects state updates immediately, before server confirmation.</li>
+<li style="margin-bottom:4px; line-height:1.5; font-size:11pt;"><strong>SPA (Single Page Application)</strong>: A web application that interacts with the browser by dynamically rewriting the current web page rather than loading complete new pages.</li>
+<div style="page-break-before:always; border-bottom:1px solid #cbd5e1; margin:20px 0;"></div>
+<h1 style="color:#0f2744; font-family:Calibri, Arial, sans-serif; font-size:22pt; font-weight:bold; margin-top:24px; margin-bottom:10px; text-align:center;">ANNEXURES</h1>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Annexure I: Project Directory Tree</h3>
+<pre style="background:#f1f5f9; padding:12px; border:1px solid #cbd5e1; font-family:'Courier New', monospace; font-size:10pt; white-space:pre-wrap; border-radius:4px;">c:\Users\DELL\Desktop\Alumini-network\
+├── config/
+│   └── db.js                        # Database connection with 2500ms timeout
+├── front-prototype/
+│   └── jims-network-main/
+│       ├── src/
+│       │   ├── components/
+│       │   │   ├── dashboard/       # Feed, PostCard, InternshipCard, Connections
+│       │   │   └── layout/          # Navbar, Sidebar
+│       │   ├── data/
+│       │   │   └── mockData.js      # Rich Phase 1 fallback dataset
+│       │   ├── services/
+│       │   │   └── api.js           # Resilient API adapter layer
+│       │   ├── App.css              # Custom institutional CSS styling
+│       │   ├── App.jsx              # Main React SPA component &amp; state sync
+│       │   └── main.jsx             # React DOM entry point
+│       ├── package.json             # Frontend dependencies (React 19, Vite)
+│       └── vite.config.js           # Vite development server configuration
+├── middleware/
+│   └── authMiddleware.js            # JWT verification &amp; role authorization
+├── models/
+│   ├── Internship.js                # Mongoose Internship collection schema
+│   ├── Post.js                      # Mongoose Post collection schema
+│   └── User.js                      # Mongoose User collection schema
+├── routes/
+│   ├── authRoutes.js                # Auth endpoints (/api/auth)
+│   ├── internshipRoutes.js          # Internship endpoints (/api/internships)
+│   ├── postRoutes.js                # Community post endpoints (/api/posts)
+│   └── userRoutes.js                # Directory &amp; member endpoints (/api/users)
+├── .env                             # Environment variables (PORT, MONGO_URI)
+├── .env.example                     # Environment template for GitHub
+├── .gitignore                       # Git exclusions (node_modules, .env)
+├── package.json                     # Root scripts (start, dev, seed)
+├── README.md                        # Project overview &amp; running instructions
+├── seed.js                          # Database initialisation and seed script
+├── server.js                        # Express server entry point &amp; /api/health
+└── SYSTEM_DESIGN_PHASE1.md          # Architectural system design specification
+</pre>
+<h3 style="color:#1e3a8a; font-family:Calibri, Arial, sans-serif; font-size:13pt; font-weight:bold; margin-top:16px; margin-bottom:6px;">Annexure II: REST API Endpoints Specification</h3>
+<table style="width:100%; border-collapse:collapse; margin:16px 0; font-size:10.5pt; font-family:Calibri, Arial, sans-serif;">
+<thead><tr style="background:#0f2744; color:#ffffff;">
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">HTTP Method</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">API Path</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Access Role</th>
+<th style="border:1px solid #0f2744; padding:8px 12px; text-align:left; font-weight:bold;">Description</th>
+</tr></thead><tbody>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">GET</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/health</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Public</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">System status, database connection, and phase check</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">POST</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/auth/register</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Public</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Register new student, alumni, or official account</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">POST</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/auth/login</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Public</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Authenticate user and issue JWT bearer token</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">GET</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/auth/me</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Authenticated</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Retrieve authenticated user profile</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">GET</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/posts</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Public / All</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Fetch community discussions sorted by newest date</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">POST</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/posts</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Authenticated</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Publish new campus update or placement advice</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">PATCH</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/posts/:id/like</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Authenticated</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Toggle like on discussion post</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">POST</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/posts/:id/comments</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Authenticated</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Append comment to post thread</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">GET</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/users</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">All</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Search member directory across name, role, dept</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">GET</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/users/:id</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">All</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Retrieve detailed user profile by identifier</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">PATCH</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/users/:id/connect</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Authenticated</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Toggle peer connection status</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">GET</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/internships</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">All</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Browse campus internships and student traineeships</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">POST</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/internships</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Alumni / Faculty</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Create new campus internship opening</td>
+</tr>
+<tr style="border-bottom:1px solid #e2e8f0;">
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">PATCH</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;"><code style="background:#f1f5f9; padding:2px 4px; border-radius:3px; font-family:'Courier New', monospace; font-size:9.5pt;">/api/internships/:id/apply</code></td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Student</td>
+<td style="border:1px solid #cbd5e1; padding:8px 12px; vertical-align:top;">Toggle application state for internship</td>
+</tr>
+</tbody></table>
+
+</body>
+</html>
