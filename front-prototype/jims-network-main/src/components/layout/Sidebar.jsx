@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Sidebar({ activeTab, setActiveTab, isOpen, onClose }) {
+function Sidebar({ activeTab, setActiveTab, isOpen, onClose, currentUser, onLogout }) {
   const navItems = [
     {
       id: 'Dashboard',
@@ -105,24 +105,79 @@ function Sidebar({ activeTab, setActiveTab, isOpen, onClose }) {
                 </li>
               );
             })}
+
+            {/* Authentication Item in Navigation */}
+            <li className="nav-item">
+              <button
+                className={`nav-link ${activeTab === 'Sign In' || activeTab === 'Sign Up' ? 'nav-link-active' : ''}`}
+                onClick={() => {
+                  setActiveTab(currentUser ? 'My Profile' : 'Sign In');
+                  if (onClose) onClose();
+                }}
+              >
+                <span className="nav-icon">
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                    <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4" />
+                    <polyline points="10 17 15 12 10 7" />
+                    <line x1="15" y1="12" x2="3" y2="12" />
+                  </svg>
+                </span>
+                <span className="nav-label">{currentUser ? 'Account & Session' : 'Sign In / Register'}</span>
+                {(activeTab === 'Sign In' || activeTab === 'Sign Up') && <span className="nav-active-pill" />}
+              </button>
+            </li>
           </ul>
         </nav>
 
         <div className="sidebar-footer">
-          <button
-            className={`user-profile-badge ${activeTab === 'My Profile' ? 'user-badge-active' : ''}`}
-            onClick={() => {
-              setActiveTab('My Profile');
-              if (onClose) onClose();
-            }}
-            title="View Sample Profile"
-          >
-            <div className="user-avatar-sm">SM</div>
-            <div className="user-details">
-              <div className="user-name">Sample Student</div>
-              <div className="user-role">Demo Account • View Profile</div>
+          {currentUser ? (
+            <div className="sidebar-user-block">
+              <button
+                className={`user-profile-badge ${activeTab === 'My Profile' ? 'user-badge-active' : ''}`}
+                onClick={() => {
+                  setActiveTab('My Profile');
+                  if (onClose) onClose();
+                }}
+                title="View your verified profile"
+              >
+                <div className="user-avatar-sm">{currentUser.avatar || 'US'}</div>
+                <div className="user-details">
+                  <div className="user-name">{currentUser.name}</div>
+                  <div className="user-role">
+                    {currentUser.role === 'alumni'
+                      ? 'Alumni Mentor'
+                      : currentUser.role === 'faculty'
+                      ? 'Faculty / T&P'
+                      : 'Student (MCA)'}
+                  </div>
+                </div>
+              </button>
+              <button
+                className="sidebar-signout-btn"
+                onClick={onLogout}
+                title="Sign out of current account"
+              >
+                Sign Out
+              </button>
             </div>
-          </button>
+          ) : (
+            <div className="sidebar-guest-block">
+              <button
+                className="btn-sidebar-auth"
+                onClick={() => {
+                  setActiveTab('Sign In');
+                  if (onClose) onClose();
+                }}
+              >
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                  <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4" />
+                  <polyline points="10 17 15 12 10 7" />
+                  <line x1="15" y1="12" x2="3" y2="12" />
+                </svg>
+                Sign In to JIMS Network
+              </button>
+            </div>
+          )}
         </div>
       </aside>
     </>

@@ -1,7 +1,12 @@
 import React from 'react';
 import { sampleUser, profileSteps } from '../../data/mockData.js';
 
-function ProfileView() {
+function ProfileView({ currentUser, onNavigate }) {
+  const user = currentUser || sampleUser;
+  const avatarText = user.avatar || user.avatarInitial || 'SM';
+  const roleText = user.role === 'alumni' ? 'Alumni Member' : user.role === 'faculty' ? 'Faculty / Coordinator' : 'Student Member';
+  const roleBadgeClass = user.role === 'alumni' ? 'badge-alumni' : user.role === 'faculty' ? 'badge-official' : 'badge-student';
+
   const completedSteps = profileSteps.filter((s) => s.completed || s.done).length;
   const progressPercent = Math.round((completedSteps / profileSteps.length) * 100);
 
@@ -12,15 +17,17 @@ function ProfileView() {
         <div className="profile-cover-gradient" />
         <div className="profile-hero-content">
           <div className="profile-avatar-large">
-            {sampleUser.avatarInitial}
+            {avatarText}
           </div>
           <div className="profile-hero-details">
             <div className="profile-name-row">
-              <h1 className="profile-full-name">{sampleUser.name}</h1>
-              <span className="badge badge-student">SAMPLE ACCOUNT (DEMO)</span>
+              <h1 className="profile-full-name">{user.name}</h1>
+              <span className={`badge ${roleBadgeClass}`}>
+                {currentUser ? (user.role?.toUpperCase() + ' (AUTHENTICATED)') : 'SAMPLE ACCOUNT (DEMO)'}
+              </span>
             </div>
             <p className="profile-headline">
-              {sampleUser.role} • {sampleUser.department}
+              {user.position || roleText} • {user.department || 'Department of Information Technology'}
             </p>
             <div className="profile-meta-chips">
               <span className="meta-chip">
@@ -28,7 +35,7 @@ function ProfileView() {
                   <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z" />
                   <circle cx="12" cy="10" r="3" />
                 </svg>
-                {sampleUser.campus}
+                {user.location || user.campus || 'Delhi, India'}
               </span>
               <span className="meta-chip">
                 <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
@@ -37,9 +44,10 @@ function ProfileView() {
                   <line x1="8" y1="2" x2="8" y2="6" />
                   <line x1="3" y1="10" x2="21" y2="10" />
                 </svg>
-                {sampleUser.batch}
+                {user.batch || 'Batch 2024-2026'}
               </span>
-              <span className="meta-chip">ID: {sampleUser.enrollmentId}</span>
+              <span className="meta-chip">Email: {user.email || 'student@jimsindia.org'}</span>
+              {user.enrollmentId && <span className="meta-chip">ID: {user.enrollmentId}</span>}
             </div>
           </div>
         </div>

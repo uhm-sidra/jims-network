@@ -1,10 +1,15 @@
 import React, { useState } from 'react';
 import PostCard from './PostCard.jsx';
 
-function Feed({ posts, onAddPost, onToggleLike, searchQuery }) {
+function Feed({ posts, onAddPost, onToggleLike, searchQuery, currentUser }) {
   const [newContent, setNewContent] = useState('');
   const [selectedTag, setSelectedTag] = useState('CampusUpdate');
   const [activeFilter, setActiveFilter] = useState('All');
+
+  const userAvatar = currentUser?.avatar || 'SM';
+  const userName = currentUser?.name || 'Sample Student (You)';
+  const userRole = currentUser?.position || (currentUser?.role === 'alumni' ? 'Alumni Member' : currentUser?.role === 'faculty' ? 'Faculty / Coordinator' : 'MCA / Student Member');
+  const userAuthorType = currentUser?.role === 'faculty' ? 'official' : currentUser?.role || 'student';
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -12,10 +17,10 @@ function Feed({ posts, onAddPost, onToggleLike, searchQuery }) {
 
     const newPost = {
       id: Date.now(),
-      author: 'Sample Student (You)',
-      role: 'BCA / B.Tech Student',
-      authorType: 'student',
-      avatar: 'SM',
+      author: userName,
+      role: userRole,
+      authorType: userAuthorType,
+      avatar: userAvatar,
       timeAgo: 'Just now',
       content: newContent.trim(),
       tags: [selectedTag],
@@ -53,7 +58,7 @@ function Feed({ posts, onAddPost, onToggleLike, searchQuery }) {
       {/* Create Post Card */}
       <div className="card create-post-card">
         <div className="create-post-header">
-          <div className="create-post-avatar">SM</div>
+          <div className="create-post-avatar">{userAvatar}</div>
           <span className="create-post-prompt">Share an update with JIMS Network</span>
         </div>
 

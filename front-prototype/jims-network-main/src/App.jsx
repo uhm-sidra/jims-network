@@ -8,6 +8,7 @@ import Feed from './components/dashboard/Feed.jsx';
 import SuggestedConnections from './components/dashboard/SuggestedConnections.jsx';
 import InternshipCard from './components/dashboard/InternshipCard.jsx';
 import ProfileView from './components/dashboard/ProfileView.jsx';
+import AuthSection from './components/auth/AuthSection.jsx';
 
 import { api } from './services/api.js';
 import {
@@ -21,6 +22,9 @@ function App() {
   const [activeTab, setActiveTab] = useState('Dashboard');
   const [isMobileSidebarOpen, setIsMobileSidebarOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
+
+  // Authentication State
+  const [currentUser, setCurrentUser] = useState(() => api.getCurrentUser());
 
   // Interactive Data States (Loaded from API with Graceful Mock Fallback)
   const [posts, setPosts] = useState(initialPosts);
@@ -73,6 +77,17 @@ function App() {
       isMounted = false;
     };
   }, []);
+
+  // Auth State & Handlers
+  const handleAuthSuccess = (userData) => {
+    setCurrentUser(userData);
+    setActiveTab('Dashboard');
+  };
+
+  const handleLogout = () => {
+    api.logout();
+    setCurrentUser(null);
+  };
 
   // Interactive Handlers (Optimistic UI + API Sync)
   const handleToggleLike = async (postId) => {
@@ -167,7 +182,7 @@ function App() {
 
     if (apiStatus === 'online') {
       try {
-        await api.toggleApplyInternship(internshipId, 'student@jimsindia.org');
+        await api.toggleApplyInternship(internshipId, currentUser?.email || 'student@jimsindia.org');
       } catch (e) {
         console.warn('Apply toggle sync error:', e);
       }
@@ -216,6 +231,8 @@ function App() {
         setActiveTab={setActiveTab}
         isOpen={isMobileSidebarOpen}
         onClose={() => setIsMobileSidebarOpen(false)}
+        currentUser={currentUser}
+        onLogout={handleLogout}
       />
 
       {/* Main App Container */}
@@ -228,16 +245,28 @@ function App() {
           activeTab={activeTab}
           onNavigate={setActiveTab}
           apiStatus={apiStatus}
+          currentUser={currentUser}
+          onLogout={handleLogout}
         />
 
         {/* Dynamic Main Body Content */}
         <main className="content-area">
+          {/* Auth Views (Sign In & Sign Up) */}
+          {(activeTab === 'Sign In' || activeTab === 'Sign Up') && (
+            <AuthSection
+              initialMode={activeTab === 'Sign Up' ? 'signup' : 'login'}
+              onAuthSuccess={handleAuthSuccess}
+              onNavigate={setActiveTab}
+            />
+          )}
+
           {/* 1. Dashboard View */}
           {activeTab === 'Dashboard' && (
             <div className="dashboard-view">
               <WelcomeBanner
                 onNavigate={setActiveTab}
                 apiStatus={apiStatus}
+                currentUser={currentUser}
                 stats={{
                   totalMembers: people.length,
                   totalInternships: internships.length,
@@ -254,6 +283,7 @@ function App() {
                     onAddPost={handleAddPost}
                     onToggleLike={handleToggleLike}
                     searchQuery={searchQuery}
+                    currentUser={currentUser}
                   />
                 </div>
 
@@ -319,6 +349,7 @@ function App() {
                   onAddPost={handleAddPost}
                   onToggleLike={handleToggleLike}
                   searchQuery={searchQuery}
+                  currentUser={currentUser}
                 />
               </div>
             </div>
@@ -391,7 +422,9 @@ function App() {
           )}
 
           {/* 5. My Profile View */}
-          {activeTab === 'My Profile' && <ProfileView />}
+          {activeTab === 'My Profile' && (
+            <ProfileView currentUser={currentUser} onNavigate={setActiveTab} />
+          )}
         </main>
       </div>
     </div>
